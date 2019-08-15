@@ -1,0 +1,32 @@
+body{
+	background: blue;
+	color: white;
+}
+h1{
+	color: red;
+}
+h2{
+	color: yellow;
+}
+p{
+	color: green;
+}
+p#black{
+	color: white;
+}
+p.violet{
+	color: violet;
+}
+p.red{
+	color: red;
+}
+p#green{
+	color: green;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
